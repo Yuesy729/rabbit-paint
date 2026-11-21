@@ -1,0 +1,12 @@
+{
+  "display_name": "兔宝绘",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "dist/index.js?ver=0.3.5-tubao.8",
+  "author": "柏柏",
+  "version": "0.3.5-tubao.8",
+  "homePage": "https://github.com/Yuesy729/rabbit-paint",
+  "auto_update": false,
+  "minimum_client_version": "1.12.13"
+}

@@ -1,0 +1,6 @@
+兔宝绘 0.3.5-tubao.8
+900项检查：897通过，3跳过，0失败。
+TypeScript、生产构建、git diff --check 通过。
+本次功能源码只修改src/pages/backend/panels/NaiPanel.vue，新增同目录交互测试。
+其它src文件与0.3.5-tubao.7逐字节一致。
+未进行真实浏览器视觉验证或真实API/酒馆实例测试。
